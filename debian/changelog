@@ -1,0 +1,9 @@
+ros-hydro-pepper-meshes (0.1.1-0raring) raring; urgency=high
+
+  * update MD5
+  * first commit of the installer
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Tue, 07 Apr 2015 22:00:00 -0000
+
+
