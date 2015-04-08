@@ -1,4 +1,4 @@
-From 5772e63a1b437062ed5fdcf3dd70584403c6f047 Mon Sep 17 00:00:00 2001
+From d4ff2b031f3690ee10cb31f15d1e5311578bc560 Mon Sep 17 00:00:00 2001
 From: Vincent Rabaud <vrabaud@aldebaran-robotics.com>
 Date: Wed, 8 Apr 2015 06:13:36 +0200
 Subject: [PATCH] Customized debian rules file
