@@ -2,6 +2,11 @@
 Changelog for package pepper_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.1 (2016-01-25)
+------------------
+* update MD5 checksum for new installers
+* Contributors: Mikael Arguedas
+
 0.2.0 (2015-04-16)
 ------------------
 * update to the latest version of the meshes
