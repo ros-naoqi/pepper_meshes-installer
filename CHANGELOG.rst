@@ -2,6 +2,11 @@
 Changelog for package pepper_meshes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.2 (2016-01-28)
+------------------
+* fixed folder names in CMakeLists
+* Contributors: Mikael Arguedas
+
 0.2.1 (2016-01-25)
 ------------------
 * update MD5 checksum for new installers
