@@ -1,0 +1,46 @@
+ros-jade-pepper-meshes (0.2.3-0trusty) trusty; urgency=high
+
+  * fixed install rule and flder path
+  * Update package.xml
+    added myself as a maintainer as requested by vrabaud
+  * Contributors: Arguedas Mikael, Mikael Arguedas
+
+ -- Mikael Arguedas <mikael.arguedas@gmail.com>  Wed, 03 Feb 2016 08:00:00 -0000
+
+ros-jade-pepper-meshes (0.2.2-0trusty) trusty; urgency=high
+
+  * fixed folder names in CMakeLists
+  * Contributors: Mikael Arguedas
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Thu, 28 Jan 2016 08:00:00 -0000
+
+ros-jade-pepper-meshes (0.2.1-0trusty) trusty; urgency=high
+
+  * update MD5 checksum for new installers
+  * Contributors: Mikael Arguedas
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Mon, 25 Jan 2016 08:00:00 -0000
+
+ros-jade-pepper-meshes (0.2.0-0trusty) trusty; urgency=high
+
+  * update to the latest version of the meshes
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Thu, 16 Apr 2015 07:00:00 -0000
+
+ros-jade-pepper-meshes (0.1.2-0trusty) trusty; urgency=high
+
+  * fix typo
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 08 Apr 2015 07:00:00 -0000
+
+ros-jade-pepper-meshes (0.1.1-0trusty) trusty; urgency=high
+
+  * update MD5
+  * first commit of the installer
+  * Contributors: Vincent Rabaud
+
+ -- Vincent Rabaud <vincent.rabaud@gmail.com>  Wed, 08 Apr 2015 07:00:00 -0000
+
+
