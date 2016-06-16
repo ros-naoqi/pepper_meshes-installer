@@ -1,3 +1,26 @@
+## pepper_meshes (jade) - 0.2.3-0
+
+The packages in the `pepper_meshes` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade pepper_meshes` on `Thu, 16 Jun 2016 18:37:23 -0000`
+
+The `pepper_meshes` package was released.
+
+Version of package(s) in repository `pepper_meshes`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_meshes.git
+- release repository: https://github.com/ros-naoqi/pepper_meshes-release.git
+- rosdistro version: `0.2.2-0`
+- old version: `0.2.2-0`
+- new version: `0.2.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## pepper_meshes (indigo) - 0.2.3-0
 
 The packages in the `pepper_meshes` repository were released into the `indigo` distro by running `/usr/bin/bloom-release pepper_meshes --track indigo --ros-distro indigo` on `Wed, 03 Feb 2016 17:20:28 -0000`
