@@ -1,3 +1,26 @@
+## pepper_meshes (kinetic) - 0.2.3-2
+
+The packages in the `pepper_meshes` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pepper_meshes --track kinetic --ros-distro kinetic` on `Mon, 19 Sep 2016 21:39:34 -0000`
+
+The `pepper_meshes` package was released.
+
+Version of package(s) in repository `pepper_meshes`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_meshes.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.2.3-1`
+- new version: `0.2.3-2`
+
+Versions of tools used:
+
+- bloom version: `0.5.22`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.39`
+
+
 ## pepper_meshes (kinetic) - 0.2.3-1
 
 The packages in the `pepper_meshes` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pepper_meshes --track kinetic --ros-distro kinetic` on `Mon, 19 Sep 2016 21:37:52 -0000`
