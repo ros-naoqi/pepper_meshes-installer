@@ -1,0 +1,12 @@
+Source: ros-kinetic-pepper-meshes
+Section: misc
+Priority: optional
+Maintainer: Mikael Arguedas <mikael.arguedas@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), default-jdk, ros-kinetic-catkin
+Homepage: http://github.com/ros-naoqi/pepper_meshes/
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-pepper-meshes
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: meshes for the Aldebaran Robotics Pepper
