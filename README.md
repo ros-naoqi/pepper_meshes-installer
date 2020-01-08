@@ -1,3 +1,26 @@
+## pepper_meshes (melodic) - 0.2.4-1
+
+The packages in the `pepper_meshes` repository were released into the `melodic` distro by running `/usr/bin/bloom-release pepper_meshes -t melodic -r melodic` on `Wed, 08 Jan 2020 15:47:12 -0000`
+
+The `pepper_meshes` package was released.
+
+Version of package(s) in repository `pepper_meshes`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_meshes.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.2.3--1`
+- new version: `0.2.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.0`
+- catkin_pkg version: `0.4.15`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## pepper_meshes (kinetic) - 0.2.3-3
 
 The packages in the `pepper_meshes` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release pepper_meshes -r kinetic -t kinetic` on `Tue, 07 Jan 2020 21:14:32 -0000`
