@@ -1,3 +1,26 @@
+## pepper_meshes (noetic) - 0.2.5-0
+
+The packages in the `pepper_meshes` repository were released into the `noetic` distro by running `/usr/bin/bloom-release --rosdistro noetic --track noetic pepper_meshes` on `Wed, 07 Sep 2022 18:19:53 -0000`
+
+The `pepper_meshes` package was released.
+
+Version of package(s) in repository `pepper_meshes`:
+
+- upstream repository: https://github.com/ros-naoqi/pepper_meshes.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.2.5--1`
+- new version: `0.2.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pepper_meshes (melodic) - 0.2.4-3
 
 The packages in the `pepper_meshes` repository were released into the `melodic` distro by running `/usr/bin/bloom-release pepper_meshes -t melodic -r melodic` on `Wed, 08 Jan 2020 16:00:03 -0000`
